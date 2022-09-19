@@ -1,0 +1,47 @@
+@charset "utf-8";
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+
+    background-color: #dfd6a7;
+    font-size: 40px;
+
+
+}
+
+#header {
+
+    background-color: #ffff;
+    height: 100px;
+}
+
+#content {
+
+    background-color: #5a7139;
+    color: #6a513b;
+    height: 500px;
+}
+
+#footer {
+
+    height: 100px;
+    background-color: #1f1300;
+    color: #dfd6a7;
+
+}
+
+img {
+
+    height: 360px;
+    width: 540px;
+    margin-bottom: 200px;
+    margin-left: 100px;
+    border: 10px solid #6a513b;
+    border-radius: 20px;
+    margin-top: 25px;
+}
